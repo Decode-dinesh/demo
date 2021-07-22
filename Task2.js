@@ -24,9 +24,4 @@ for (let x of obj) {
 }
 
 // for each
-console.log("for each");
-obj.forEach((details) => {
-    console.log('Person: ' + details.person);
-    console.log('age: ' + details.age);
-    console.log('company: ' + details.company);
-});
+obj.forEach(x => console.log(x));
