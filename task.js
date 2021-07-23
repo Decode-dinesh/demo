@@ -17,7 +17,7 @@ var TechnicalSpecifications = [{
 
     },
     engine: {
-        type: kb - series,
+        type: 'kb - series',
         numberOfCylinders: 3,
         numberOfValves: 12,
         capacity_cc: 998,
@@ -29,7 +29,7 @@ var TechnicalSpecifications = [{
 
     },
     transmission: {
-        type: 5 - speed_Mt
+        type: 5 - 'speed_Mt'
     },
     chasis: {
         steering: 'rack & pinion, power assisted',
