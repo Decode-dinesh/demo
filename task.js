@@ -1,5 +1,5 @@
 var TechnicalSpecifications = [{
-    Dimension: {
+    dimension: {
         overallLength_mm: 3.500,
         overallWidth_mm: 1600,
         overallHeight_mm: 1490,
